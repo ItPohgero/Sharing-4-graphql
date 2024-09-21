@@ -1,15 +1,3 @@
-# grapql-server
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.28. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+# Graph Ql
+Materi ini di sampaikan pada sharing session 4 itpohgero mataraman dev
+oleh wahyu agus arifin
