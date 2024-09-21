@@ -15,6 +15,8 @@ const resolvers = {
 
         getPost: (_parent: undefined, args: GetPostArgs): Post | undefined => {
             const { id } = args;
+            console.log({id});
+            
             return posts.find(post => post.id === Number(id));
         },
     },

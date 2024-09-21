@@ -1,5 +1,5 @@
 {
-  "name": "grapql-server",
+  "name": "client-request",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -12,7 +12,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "apollo-server": "^3.13.0",
-    "graphql": "^16.9.0"
+    "graphql-request": "^7.1.0"
   }
 }
